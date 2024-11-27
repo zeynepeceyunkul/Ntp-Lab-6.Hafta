@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\bin\Debug\CalisanRolMaas.exe.config
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\bin\Debug\CalisanRolMaas.exe
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\bin\Debug\CalisanRolMaas.pdb
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\obj\Debug\CalisanRolMaas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\obj\Debug\CalisanRolMaas.exe
+C:\Users\User\source\repos\CalisanRolMaas\CalisanRolMaas\obj\Debug\CalisanRolMaas.pdb
