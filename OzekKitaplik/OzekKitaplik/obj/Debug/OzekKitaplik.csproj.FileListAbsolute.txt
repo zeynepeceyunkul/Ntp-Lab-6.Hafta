@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\bin\Debug\OzekKitaplik.exe.config
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\bin\Debug\OzekKitaplik.exe
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\bin\Debug\OzekKitaplik.pdb
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\obj\Debug\OzekKitaplik.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\obj\Debug\OzekKitaplik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\obj\Debug\OzekKitaplik.exe
+C:\Users\User\source\repos\OzekKitaplik\OzekKitaplik\obj\Debug\OzekKitaplik.pdb
