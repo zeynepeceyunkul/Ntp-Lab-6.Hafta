@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IslemCesit\IslemCesit\bin\Debug\IslemCesit.exe.config
+C:\Users\User\source\repos\IslemCesit\IslemCesit\bin\Debug\IslemCesit.exe
+C:\Users\User\source\repos\IslemCesit\IslemCesit\bin\Debug\IslemCesit.pdb
+C:\Users\User\source\repos\IslemCesit\IslemCesit\obj\Debug\IslemCesit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IslemCesit\IslemCesit\obj\Debug\IslemCesit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IslemCesit\IslemCesit\obj\Debug\IslemCesit.exe
+C:\Users\User\source\repos\IslemCesit\IslemCesit\obj\Debug\IslemCesit.pdb
