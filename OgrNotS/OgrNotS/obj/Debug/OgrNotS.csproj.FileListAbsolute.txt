@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\OgrNotS\OgrNotS\bin\Debug\OgrNotS.exe.config
+C:\Users\User\source\repos\OgrNotS\OgrNotS\bin\Debug\OgrNotS.exe
+C:\Users\User\source\repos\OgrNotS\OgrNotS\bin\Debug\OgrNotS.pdb
+C:\Users\User\source\repos\OgrNotS\OgrNotS\obj\Debug\OgrNotS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OgrNotS\OgrNotS\obj\Debug\OgrNotS.exe
+C:\Users\User\source\repos\OgrNotS\OgrNotS\obj\Debug\OgrNotS.pdb
