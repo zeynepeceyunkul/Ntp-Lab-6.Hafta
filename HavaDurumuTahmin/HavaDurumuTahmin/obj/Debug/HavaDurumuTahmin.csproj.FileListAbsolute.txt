@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\bin\Debug\HavaDurumuTahmin.exe.config
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\bin\Debug\HavaDurumuTahmin.exe
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\bin\Debug\HavaDurumuTahmin.pdb
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\obj\Debug\HavaDurumuTahmin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\obj\Debug\HavaDurumuTahmin.exe
+C:\Users\User\source\repos\HavaDurumuTahmin\HavaDurumuTahmin\obj\Debug\HavaDurumuTahmin.pdb
