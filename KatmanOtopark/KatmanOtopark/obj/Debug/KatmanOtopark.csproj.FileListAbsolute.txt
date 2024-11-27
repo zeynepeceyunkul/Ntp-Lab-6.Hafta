@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\bin\Debug\KatmanOtopark.exe.config
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\bin\Debug\KatmanOtopark.exe
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\bin\Debug\KatmanOtopark.pdb
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\obj\Debug\KatmanOtopark.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\obj\Debug\KatmanOtopark.exe
+C:\Users\User\source\repos\KatmanOtopark\KatmanOtopark\obj\Debug\KatmanOtopark.pdb
