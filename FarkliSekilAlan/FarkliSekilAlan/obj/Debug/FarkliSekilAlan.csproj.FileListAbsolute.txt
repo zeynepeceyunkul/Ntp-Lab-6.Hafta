@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\bin\Debug\FarkliSekilAlan.exe.config
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\bin\Debug\FarkliSekilAlan.exe
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\bin\Debug\FarkliSekilAlan.pdb
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\obj\Debug\FarkliSekilAlan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\obj\Debug\FarkliSekilAlan.exe
+C:\Users\User\source\repos\FarkliSekilAlan\FarkliSekilAlan\obj\Debug\FarkliSekilAlan.pdb
