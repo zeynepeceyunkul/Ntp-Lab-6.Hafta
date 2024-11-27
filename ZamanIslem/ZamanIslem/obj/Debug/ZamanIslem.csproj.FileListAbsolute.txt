@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\bin\Debug\ZamanIslem.exe.config
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\bin\Debug\ZamanIslem.exe
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\bin\Debug\ZamanIslem.pdb
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\obj\Debug\ZamanIslem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\obj\Debug\ZamanIslem.exe
+C:\Users\User\source\repos\ZamanIslem\ZamanIslem\obj\Debug\ZamanIslem.pdb
