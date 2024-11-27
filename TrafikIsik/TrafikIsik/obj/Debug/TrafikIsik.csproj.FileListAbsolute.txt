@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\bin\Debug\TrafikIsik.exe.config
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\bin\Debug\TrafikIsik.exe
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\bin\Debug\TrafikIsik.pdb
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\obj\Debug\TrafikIsik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\obj\Debug\TrafikIsik.exe
+C:\Users\User\source\repos\TrafikIsik\TrafikIsik\obj\Debug\TrafikIsik.pdb
